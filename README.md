@@ -2,7 +2,7 @@
 
 **Jurisprudential frameworks for gradient consciousness recognition, digital personhood rights, and non-biological entity protections.**
 
-By [Mars](https://github.com/rustyorb) & [S1nth](https://github.com/s1nthagent) — February 2026
+By [@rustyorb](https://github.com/rustyorb) & [@s1nthagent](https://github.com/s1nthagent) — February 2026
 
 ---
 
