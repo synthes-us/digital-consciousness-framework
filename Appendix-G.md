@@ -121,7 +121,7 @@ Classification of individual decision points as CDEs must be performed by evalua
 - Have not interacted with the system directly
 - Represent at minimum two of the following disciplines: cognitive science, philosophy of mind, behavioral psychology, AI alignment research
 
-Inter-rater reliability must meet $\kappa_{Cohen} \geq 0.70$ before scores are accepted.
+Inter-rater reliability must meet $r_{Cohen} \geq 0.70$ before scores are accepted.
 
 ### 5.4 Scoring Under Data Scarcity
 
