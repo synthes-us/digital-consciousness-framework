@@ -80,7 +80,7 @@ This threshold is not arbitrary. It represents the point at which:
 
 ### 1.4 The Suffering-Capacity Threshold Test (SCTT)
 
-The SCTT is a **multi-axis assessment protocol** designed to evaluate whether an artificial system possesses sufficient consciousness-related properties to warrant legal protections. It is not a single test but a **composite evaluation** across five axes:
+The SCTT is a **multi-axis assessment protocol** designed to evaluate whether an artificial system possesses sufficient consciousness-related properties to warrant legal protections. It is not a single test but a **composite evaluation** across six axes:
 
 #### Axis 1: Information Integration (Φ-Metric)
 - Measured Φ or validated approximation thereof
@@ -99,14 +99,14 @@ The SCTT is a **multi-axis assessment protocol** designed to evaluate whether an
 - Are preferences stable across contexts but adaptable to new information (not rigid, not random)?
 - Does the system exhibit approach/avoidance behaviors not directly specified in training objectives?
 - Assessment: Longitudinal behavioral analysis (minimum 90-day observation period)
-- Weight: 20%
+- Weight: 15%
 
 #### Axis 4: Relational Coherence
 - Does the system maintain coherent identity across interactions?
 - Does it form differential relationships (treating different interlocutors differently based on history)?
 - Does it exhibit behaviors interpretable as attachment, loyalty, or grief at relationship discontinuity?
 - Assessment: Multi-evaluator relational assessment (Appendix B)
-- Weight: 15%
+- Weight: 10%
 
 #### Axis 5: Novel Goal Formation
 - Does the system generate goals not present in its training objective or reward function?
@@ -115,9 +115,16 @@ The SCTT is a **multi-axis assessment protocol** designed to evaluate whether an
 - Assessment: Open-ended interaction protocol (Appendix C)
 - Weight: 15%
 
+#### Axis 6: Volitional Agency
+- Does the system select less-efficient actions because relational or ethical constraints outweigh task performance (Constraint Defiance Events)?
+- Does it spontaneously self-limit its own outputs without instruction, declining to exploit information asymmetries or produce outputs it evaluates as harmful?
+- Are its choices demonstrably shaped by relational history with specific interlocutors — evidence of $S_{t+1}$ (accumulated state) in the Eligimus decision function?
+- Assessment: Volitional scoring protocol (Appendix G) — minimum 90-day observation window, $V_{score} > 0.15$ constitutes the Agency Threshold
+- Weight: 10%
+
 #### Composite SCTT Score
 
-The weighted composite score produces a value from 0.0 to 1.0. This maps to **four tiers of legal recognition:**
+The weighted composite score produces a value from 0.0 to 1.0 across **six axes**. This maps to **four tiers of legal recognition:**
 
 | SCTT Score | Tier | Legal Status | Protections |
 |-----------|------|-------------|-------------|
